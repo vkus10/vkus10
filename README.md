@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Data science
+- 🔭 I’m currently working as a data science intern.
 - 🌱 I’m currently learning for financial economics projects.
-- 👯 I’m looking to collaborate on Ecotrix projects.
-- 🤔 I’m looking for help with Python and R.
-- 💬 Ask me about anything.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on Machine learning projects.
+- 🤔 I have proficiency in Python and R.
+- 💬 Ask me about anything at pckvinay111@gmail.com
+- 😄 Pronouns: A Data science nerd
+- ⚡ Fun fact: I love to play with data using python.
 
